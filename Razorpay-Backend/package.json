@@ -1,0 +1,23 @@
+{
+  "name": "razorpay-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15",
+    "razorpay": "^2.8.0",
+    "uniqid": "^5.4.0"
+  }
+}
